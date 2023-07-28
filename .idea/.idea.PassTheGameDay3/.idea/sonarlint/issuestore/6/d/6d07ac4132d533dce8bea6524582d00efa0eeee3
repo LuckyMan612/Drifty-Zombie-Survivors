@@ -1,0 +1,9 @@
+
+Qcsharpsquid:S3903
+"/Move 'ZombieController' into a named namespace.(ò±¬ˆùÿÿÿÿ
+ƒcsharpsquid:S2342"_Rename this enumeration to match the regular expression: '^([A-Z]{1,3}[a-z0-9]+)*([A-Z]{2})?$'.(Šö û8¯Àžè™1
+Tcsharpsquid:S2933"+Make 'maximumDistanceThreshold' 'readonly'.(Íç‹†ûÿÿÿÿ8«˜·ã™1
+`csharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(÷°‡
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(œÙ“ ýÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(àé±÷
+hcsharpsquid:S1104#"DMake this field 'private' and encapsulate it in a 'public' property.(ÀàÑä8äÚ­è™1

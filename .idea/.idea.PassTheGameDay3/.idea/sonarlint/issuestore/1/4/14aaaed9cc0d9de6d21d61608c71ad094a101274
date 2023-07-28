@@ -1,0 +1,12 @@
+
+Gcsharpsquid:S1125%"*Remove the unnecessary Boolean literal(s).(›ò÷½
+Lcsharpsquid:S3903"*Move 'CarAbiliete' into a named namespace.(°ÄÂ²ûÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ùòÊ‘
+fcsharpsquid:S1104
+"DMake this field 'private' and encapsulate it in a 'public' property.(ïùı»ùÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¬äöÈÿÿÿÿÿ
+`csharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¿ş½|
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¾Âüÿÿÿÿ
+Lcsharpsquid:S1066%"/Merge this if statement with the enclosing one.(›ò÷½
+;csharpsquid:S125"Remove this commented out code.(äÛû¯
+;csharpsquid:S125;"Remove this commented out code.(³‹ÇÅ

@@ -1,0 +1,4 @@
+repository "Pass2@The_Indie_Accord@cloud"
+  path "/"
+    br "/main"
+    co "/main"
